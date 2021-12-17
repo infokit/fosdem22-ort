@@ -1,7 +1,7 @@
 # fosdem22-ort
 
 **Open Renaissance Toolkit Design Proposal**<br/>
-Towards a Software Architecture for Scientific Research Methods and Processes
+Towards a Software Architecture for Scientific Research Methods
 
 ## Abstract
 
