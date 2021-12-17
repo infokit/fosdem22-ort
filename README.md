@@ -34,7 +34,7 @@ software projects into highly individual personal processes of research.
 Facilitate the pooling of coding efforts on (often poorly funded) open research software tools.  At best, this is a conversation starter and facilitates 
 the creation of interest and networks which would like to participate in the construction of an open source research software stack on a bauhaus scale.
 
-## Body
+## FLOSS Research Software Tools & Relevant Data Formats
 
 | Software Categorry | FLOSS Applications | Research Data Formats |
 | --------------- | --------------- | --------------- |
