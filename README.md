@@ -1,6 +1,5 @@
-# fosdem22-ort
+## Open Renaissance Toolkit Design Proposal
 
-**Open Renaissance Toolkit Design Proposal**<br/>
 Towards a Software Architecture for Scientific Research Methods
 
 ## Abstract
@@ -34,3 +33,58 @@ software projects into highly individual personal processes of research.
 
 Facilitate the pooling of coding efforts on (often poorly funded) open research software tools.  At best, this is a conversation starter and facilitates 
 the creation of interest and networks which would like to participate in the construction of an open source research software stack on a bauhaus scale.
+
+## Body
+
+| Software Categorry | FLOSS Applications | Research Data Formats |
+| --------------- | --------------- | --------------- |
+| Web Browser |   |   |
+| Document Editor |  |  |
+| Document Viewer |  |  |
+| Document Search |  |  |
+| Text Tokenization & Indexing |  |  |
+| Optical Character Recognition |  |  |
+| Named Entity Recognition Tools |  |  |
+| Bibliography Management |  |  |
+| Network Analysis |  |  |
+| Concept Mapping  |  |  |
+| Vocabulary & Corpus Management  |  |  |
+| Ordinary Data Capture  |  |  |
+| Archival |  |  |
+| Data Cleanup/Wrangling |  |  |
+| Workflow Engines / Processing Pipelines|  |  |
+| Data Analysis |  |  |
+| Date/Time Recognition & Time Queries |  |  |
+
+## Supplementary information
+
+### Research Data Management
+
+_"The goal of Research Data Management is to produce self-describing data sets."_ ([Strasser et al, 2010, p.1](https://escholarship.org/uc/item/7tf5q7n3))
+
+As stated, for example, in the [Data Readiness Roadmap, GeoNODE 2018](https://dataservices.gfz-potsdam.de/portal/drr.html): _"Research data management (RDM) is a process which begins before the data is collected and in most cases should conclude with data being shared publicly. This process is termed the Data Life Cycle. According to each stage of the data life cycle, handling research data may require different RDM practices, although some are common to all."_
+
+### Methodologies and Methods
+
+- Grounded Theory: ...
+- Content Analysis: ...
+- Comparative Analysis: ...
+-
+### Activities & Phases in Research Processes
+
+- Reading
+- Active Reading
+- Searching
+- Finding
+- Observing
+- Listening
+- Seeing
+- Asking
+- Summarizing
+- Analysing
+- Writing
+- Sharing
+- Discussing
+- Reflecting
+
+
