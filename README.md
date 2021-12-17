@@ -1,4 +1,4 @@
-## Open Renaissance Toolkit Design Proposal
+## Open Renaissance Toolkit: A Design Proposal
 
 Towards a Software Architecture for Scientific Research Methods
 
@@ -18,11 +18,6 @@ media seems still hard to get straight. Most recent scientific articles are stor
 Starting from this scenery, I want to share and discuss some design principles and an architecture draft, following which a future open research toolkit could 
 be developed in coordination with a wide variety of open science software & data projects.
 
-Utilizing a mixed set of research methods for creating the framework, I want to share 11 slides representing one software application, each representing 
-a category of research software applications:
-
-_Web Browsing, Document Editing, Document Viewing, Searching, Bibliography Management, Network and Concept Mapping, Timeline Filtering, Text Tokenization,
-Data Capture, Archival, Data Processing_ and _Data Analysis_.
 
 I would like to conclude with three slides outlining an architecture to systematize these functionalities along research methods, and integrate these 
 along concurrent phases in research projects. These architecture drafts may help to systematically reflect on our common uses cases, research methods, 
@@ -35,6 +30,9 @@ Facilitate the pooling of coding efforts on (often poorly funded) open research 
 the creation of interest and networks which would like to participate in the construction of an open source research software stack on a bauhaus scale.
 
 ## FLOSS Research Software Tools & Relevant Data Formats
+
+Utilizing a mixed set of research methods for creating the framework, I want to share 11 slides representing one software application, each representing 
+a category of research software applications:
 
 | Software Categorry | FLOSS Applications | Research Data Formats |
 | --------------- | --------------- | --------------- |
@@ -56,11 +54,17 @@ the creation of interest and networks which would like to participate in the con
 | Data Analysis |  |  |
 | Date/Time Recognition & Time Queries |  |  |
 
+## Current prototype environment
+
+The [DMX Platform](/dmx-systems/dmx-platform) with its standard plugins: Notes, Contacts, Events, Files, Bookmarks and Topicmaps. Here is a [short introduction on DMX design fundamentals](https://dmx.readthedocs.io/en/latest/intro.html). It's [plugin architecture is described here](https://dmx.readthedocs.io/en/latest/devel.html) and the platform is implemented in Java (Backend) and JavaScript (Frontend).
+
+Plus, the additional plugins I started to develop or contributed to myself to extend the platform [CSV](/mukil/dmx-csv), [Stableviews](/mukil/stableviews), [Littlehelpers](/mukil/dmx-littlehelpers), [Import-Export](https://github.com/mukil/dmx-import-export), [Images](https://github.com/mukil/dmx-images) and [Webpages](/mukil/dmx-webpages).
+
 ## Supplementary information
 
 ### Research Data Management
 
-_"The goal of Research Data Management is to produce self-describing data sets."_ ([Strasser et al, 2010, p.1](https://escholarship.org/uc/item/7tf5q7n3))
+_"The goal of research data management is to produce self-describing data sets."_ ([Strasser et al, 2010, p.1](https://escholarship.org/uc/item/7tf5q7n3))
 
 As stated, for example, in the [Data Readiness Roadmap, GeoNODE 2018](https://dataservices.gfz-potsdam.de/portal/drr.html): _"Research data management (RDM) is a process which begins before the data is collected and in most cases should conclude with data being shared publicly. This process is termed the Data Life Cycle. According to each stage of the data life cycle, handling research data may require different RDM practices, although some are common to all."_
 
@@ -87,4 +91,10 @@ As stated, for example, in the [Data Readiness Roadmap, GeoNODE 2018](https://da
 - Discussing
 - Reflecting
 
+## Copyright
 
+Malte Reißig, (C) 2021
+
+## Funding
+
+The Junior Research Group “ProMUT” (grant number: 01UU1705A) is funded by the German Federal Ministry of Education and Research as part of its funding initiative “Social-Ecological Research“. 
