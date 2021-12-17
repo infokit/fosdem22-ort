@@ -5,7 +5,7 @@ Towards a Software Architecture for Scientific Research Methods
 
 ## Abstract
 
-Research software embody paradigms and methods of scientific research and mediate their - more or less - rigorous application. 
+Research software embody paradigms and methods of scientific research and mediate their - more or less - rigorous application. This means, open research software engineers are not only contributing to the tools of scientific enquiry but also work on advancing the latest scientific instruments and methods.
 
 Reflecting on my deep-dive into scientific work I would like to bright up the spirits through outlining a futuristic systems architecture spanning 
 different methods and phases of a scientific research process. In my example, the research process involved two trans-disciplinary literature reviews, 
