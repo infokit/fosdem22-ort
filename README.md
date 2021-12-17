@@ -56,9 +56,9 @@ a category of research software applications:
 
 ## Current prototype environment
 
-The [DMX Platform](/dmx-systems/dmx-platform) with its standard plugins: Notes, Contacts, Events, Files, Bookmarks and Topicmaps. Here is a [short introduction on DMX design fundamentals](https://dmx.readthedocs.io/en/latest/intro.html). It's [plugin architecture is described here](https://dmx.readthedocs.io/en/latest/devel.html) and the platform is implemented in Java (Backend) and JavaScript (Frontend).
+The [DMX Platform](/dmx-systems/dmx-platform) with its standard plugins: Notes, Contacts, Events, Files, Bookmarks and Topicmaps. Here is a [short introduction on DMX design fundamentals](https://dmx.readthedocs.io/en/latest/intro.html). It's [plugin architecture is described here](https://dmx.readthedocs.io/en/latest/devel.html) and its [source code is available here](/dmx-systems/dmx-platform). The platform is mostly developed in Java (Backend) and JavaScript (Frontend).
 
-Plus, the additional plugins I started to develop or contributed to myself to extend the platform [CSV](/mukil/dmx-csv), [Stableviews](/mukil/stableviews), [Littlehelpers](/mukil/dmx-littlehelpers), [Import-Export](https://github.com/mukil/dmx-import-export), [Images](https://github.com/mukil/dmx-images) and [Webpages](/mukil/dmx-webpages).
+Adding to the platform there are plugins available which I either started to develop by myself or contributed to. Namely, [CSV](/mukil/dmx-csv), [Stableviews](/mukil/stableviews), [Littlehelpers](/mukil/dmx-littlehelpers), [Import-Export](https://github.com/mukil/dmx-import-export), [Images](https://github.com/mukil/dmx-images) and [Webpages](/mukil/dmx-webpages).
 
 ## Supplementary information
 
