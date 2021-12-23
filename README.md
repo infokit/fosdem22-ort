@@ -1,4 +1,4 @@
-## Open Renaissance Toolkit: A Design Proposal
+## Open Research Toolkit: A Design Proposal
 
 Towards a Software Architecture for Scientific Research Methods
 
