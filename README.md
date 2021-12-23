@@ -34,25 +34,30 @@ the creation of interest and networks which would like to participate in the con
 Utilizing a mixed set of research methods for creating the framework, I want to share 11 slides representing one software application, each representing 
 a category of research software applications:
 
-| Software Categorry | FLOSS Applications | Research Data Formats |
-| --------------- | --------------- | --------------- |
-| Web Browser |   |   |
-| Document Editor |  |  |
-| Document Viewer |  |  |
-| Document Search |  |  |
-| Text Tokenization & Indexing |  |  |
-| Optical Character Recognition |  |  |
-| Named Entity Recognition Tools |  |  |
-| Bibliography Management |  |  |
-| Network Analysis |  |  |
-| Concept Mapping  |  |  |
-| Vocabulary & Corpus Management  |  |  |
-| Ordinary Data Capture  |  |  |
-| Archival |  |  |
-| Data Cleanup/Wrangling |  |  |
-| Workflow Engines / Processing Pipelines|  |  |
-| Data Analysis |  |  |
-| Date/Time Recognition & Time Queries |  |  |
+| Software Categorry | F/L/OSS Applications | Proprietary (Web) Services | Research Data Formats |
+| --------------- | --------------- | --------------- | --------------- |
+| Web Browser | [Firefox](https://firefox.org) |   |   |
+| Text/Markdown Editor | [Joplin](https://joplinapp.org/)  |   |   |
+| Document Editor | [LibreOffice](https://libreoffice.org)  |   |   |
+| Document Viewer | [Evince](https://wiki.gnome.org/Apps/Evince), [Okular](https://okular.kde.org/) |   |   |
+| Document Search |   |   |   |
+| Optical Character Recognition |   |   |   |
+| Textification | [Apache Tika](https://tika.apache.org/) |  |  |
+| Text Classification & Indexing |  | [Scite.ai](https://scite.ai) |   |
+| Text Tokenization & Lemmatization | [spaCy](https://spacy.io/), [NLTK](https://www.nltk.org/)  |   |   |
+| Named Entity Recognition Tools | [spaCy](https://spacy.io/), [NLTK](https://www.nltk.org/) |   |   |
+| Bibliography Management |  |  | [.bib](https://en.wikipedia.org/wiki/BibTeX), [.ris](https://en.wikipedia.org/wiki/RIS_(file_format))  |
+| Bibliographic Databases |  [OpenAlex](https://openalex.org/) (Formerly MAG)  | [WoS](https://en.wikipedia.org/wiki/Web_of_Science), [Scopus](https://www.scopus.com/search/form.uri?display=basic), [Google Scholar](scholar.google.de/) | [.bib](https://en.wikipedia.org/wiki/BibTeX), [.ris](https://en.wikipedia.org/wiki/RIS_(file_format)) |
+| Graph Data Representation |   |   |   |
+| Network Analysis |   |   |   |
+| Concept Mapping  |   |   |   |
+| Vocabulary & Taxonomy Management  |   |   |  [SKOS](https://www.w3.org/2004/02/skos/)  |
+| Ordinary Data Capture  |   |   |   |
+| Archival |   |   |   |
+| Data Cleanup/Wrangling |   |   |   |
+| Workflow Engines / Processing Pipelines | [KNIME](https://github.com/knime/knime-core) |   | [CommonWL](https://www.commonwl.org/user_guide/)  |
+| Data Analysis |   |   |   |
+| Date/Time Recognition & Time Queries |   |   |   |
 
 ## Current prototype environment
 
